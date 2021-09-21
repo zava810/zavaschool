@@ -1,6 +1,5 @@
 ---
-# Display name
-name: Michael Vahn
+name: vimAl kumar
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -8,41 +7,41 @@ authors:
 # resume download button
 btn:
 - url : "https://sourcethemes.com/academic/docs/install/"
-  label : "Download Resume"
+  label : "daunlod rezume"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: professor of artificial intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: stanford university
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: my research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- artificial intelligence
+- computational linguistics
+- information retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: mfg process & Automation
+    institution: neTazi subhash institute of technology
+    year: 1998
+  - course: non medical + computers (Aissce)
+    institution: D.A.v public school
+    year: 1994
+  - course: 10th class (Aisse, cbse)
+    institution: giTa convent school
+    year: 1992
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
