@@ -1,0 +1,15 @@
+# Font style metadata
+name = "default"
+
+# Optional Google font URL
+# google_fonts = "Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "u5cdot"
+body_font = "ssu5p"
+nav_font = "hinDi52"
+mono_font = "hinDi52"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
