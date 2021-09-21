@@ -6,9 +6,9 @@ name = "default"
 
 # Font families
 heading_font = "u5cdot"
-body_font = "ssu5p"
-nav_font = "hinDi52"
-mono_font = "hinDi52"
+body_font = "u5cdot"
+nav_font = "u5cdot"
+mono_font = "u5cdot"
 
 # Font size
 font_size = "20"
