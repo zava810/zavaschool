@@ -34,18 +34,33 @@
   weight = 60
 
 [[main]]
-  name = "dropdown"
+  name = "courses"
   url = "#"
   hasChildren = true
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 1"
+  parent = "courses"
+  name = "mobile Application development"
   url = "#"
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 2"
+  parent = "courses"
+  name = "seo & digital marketing"
+  url = "#"
+
+[[main]]
+parent = "courses"
+name = "Data science"
+url = "#"
+
+[[main]]
+parent = "courses"
+name = "full stack development"
+url = "#"
+
+[[main]]
+  parent = "courses"
+  name = "python Django web development"
   url = "#!"
 
 # Link to a PDF of your resume/CV from the menu.
