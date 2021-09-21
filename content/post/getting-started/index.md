@@ -1,6 +1,6 @@
 ---
-title: 'academia: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+title: 'robotiks & AutomAtion'
+subtitle: 'robotiks is industrAl branch branch to Automoate heavy vorks by replacing humAns vith robots:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin

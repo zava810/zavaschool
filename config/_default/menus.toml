@@ -41,27 +41,27 @@
 [[main]]
   parent = "courses"
   name = "mobile Application development"
-  url = "#"
+  url = "courses/example"
 
 [[main]]
   parent = "courses"
   name = "seo & digital marketing"
-  url = "#"
+  url = "courses/example1"
 
 [[main]]
 parent = "courses"
 name = "Data science"
-url = "#"
+url = "courses/example2"
 
 [[main]]
 parent = "courses"
 name = "full stack development"
-url = "#"
+url = "courses/example3"
 
 [[main]]
   parent = "courses"
   name = "python Django web development"
-  url = "#!"
+  url = "courses/example4"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -35,13 +35,13 @@ hero_media = "user-2.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "know more"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## my name is **michael vahn** and i'm a **professor** specializing in **artificial intelligence**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+contrary to popular belief, lorem ipsum is not simply random text. it has roots in a piece of classical latin literature from 45 bc.
