@@ -42,6 +42,7 @@ hero_media = "user-2.jpg"
   label = "contact me"
 
 +++
-## my name is **michael vahn** and i'm a **professor** specializing in **artificial intelligence**
+## my name is **vimAl kumar** and i'm a **softveyr professional** specializing in **python zava seo**
 
-contrary to popular belief, lorem ipsum is not simply random text. it has roots in a piece of classical latin literature from 45 bc.
+i Am contributor to gitHub open source community.
+[github profile](http://github.com/zava8)
