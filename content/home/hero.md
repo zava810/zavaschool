@@ -42,6 +42,12 @@ hero_media = "user-2.jpg"
   label = "hmare kontAkts"
 
 +++
-## hm ,vimAl kumar, ek softveyr profesnl h. hm **python zava seo** me kam krTe h.
+## hm ,vimAl kumar, [ItslAb](http://itslab.co.in) me ek softveyr profesnl H. Hm **python zava sEO** me kodiNg krTe h.
+
+hmare sosl profails :
+1. [vk.com/zs810](vk.com/zs810)
+1. [fb.com/heks810](fb.com/heks810)
+1. [gitHub.com/zava8](gitHub.com/zava8)
+1. [t.me/zava8](t.me/zava8)
 
 hm gitHub pr bhi kodiNg krTe h. [gitHub profail](http://gitHub.com/zava8)
