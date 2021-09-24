@@ -4,63 +4,63 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Hom"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "posts"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "prozAkts"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "pblikesAns"
   url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Courses"
+  name = "korsiz"
   url = "courses/"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "smprk"
   url = "#contact"
   weight = 60
 
 [[main]]
-  name = "courses"
+  name = "korsiz"
   url = "#"
   hasChildren = true
 
 [[main]]
-  parent = "courses"
-  name = "mobile Application development"
+  parent = "korsiz"
+  name = "mobail AplikesAn devlepment"
   url = "courses/example"
 
 [[main]]
-  parent = "courses"
-  name = "seo & digital marketing"
+  parent = "korsiz"
+  name = "s.I.O & dizitl marketiNg"
   url = "courses/example1"
 
 [[main]]
-parent = "courses"
-name = "Data science"
+parent = "korsiz"
+name = "dAta sains"
 url = "courses/example2"
 
 [[main]]
-parent = "courses"
-name = "full stack development"
+parent = "korsiz"
+name = "phul stAk devlepment"
 url = "courses/example3"
 
 [[main]]
-  parent = "courses"
-  name = "python Django web development"
+  parent = "korsiz"
+  name = "payThn dzaNgo veb devlepment"
   url = "courses/example4"
 
 # Link to a PDF of your resume/CV from the menu.
