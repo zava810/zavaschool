@@ -5,10 +5,15 @@ name = "Default"
 # google_fonts = "Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-# heading_font = "Open Sans"
+# heading_font = "Lora"
 # body_font = "Roboto"
-# nav_font = "Roboto"
-# mono_font = "Roboto Mono"
+# nav_font = "Lora"
+# mono_font = "Cutive Mono"
+# Font families
+heading_font = "u5cdot"
+body_font = "u5cdot"
+nav_font = "u5cdot"
+mono_font = "u5cdot"
 u5cdot_font = "u5cdot"
 hnskrit_font = "hnskrit"
 
