@@ -35,14 +35,13 @@ hero_media = "user-2.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "know more"
+  label = "or zane"
   
 [btn_alt]
   url = "#contact"
-  label = "contact me"
+  label = "hmare kontAkts"
 
 +++
-## my name is **vimAl kumar** and i'm a **softveyr professional** specializing in **python zava seo**
+## hm ,vimAl kumar, ek softveyr profesnl h. hm **python zava seo** me kam krTe h.
 
-i Am contributor to gitHub open source community.
-[github profile](http://github.com/zava8)
+hm gitHub pr bhi kodiNg krTe h. [gitHub profail](http://gitHub.com/zava8)

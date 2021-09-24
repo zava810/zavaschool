@@ -39,8 +39,8 @@ education:
   - course: non medical + computers (Aissce)
     institution: D.A.v public school
     year: 1994
-  - course: 10th class (Aisse, cbse)
-    institution: giTa convent school
+  - course: 10Th class (Aisse, cbse)
+    institution: giTa konvent skuul
     year: 1992
 
 # Social/academia Networking

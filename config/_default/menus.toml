@@ -29,12 +29,12 @@
   weight = 50
 
 [[main]]
-  name = "smprk"
+  name = "kontAkt"
   url = "#contact"
   weight = 60
 
 [[main]]
-  name = "korsiz"
+  name = "fonts"
   url = "#"
   hasChildren = true
 
