@@ -5,10 +5,10 @@ name = "default"
 # google_fonts = "Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "u5cdot"
-body_font = "u5cdot"
-nav_font = "u5cdot"
-mono_font = "u5cdot"
+# heading_font = "u5cdot"
+# body_font = "u5cdot"
+# nav_font = "u5cdot"
+# mono_font = "u5cdot"
 u5cdot_font = "u5cdot"
 hnskrit_font = "hnskrit"
 

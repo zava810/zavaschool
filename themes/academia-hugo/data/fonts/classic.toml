@@ -2,13 +2,20 @@
 name = "Classic"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono"
+# google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono"
 
 # Font families
-heading_font = "Lato"
-body_font = "Open Sans"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+# heading_font = "Lora"
+# body_font = "Roboto"
+# nav_font = "Lora"
+# mono_font = "Cutive Mono"
+# Font families
+heading_font = "u5cdot"
+body_font = "u5cdot"
+nav_font = "u5cdot"
+mono_font = "u5cdot"
+u5cdot_font = "u5cdot"
+hnskrit_font = "hnskrit"
 
 # Font size
 font_size = "20"
