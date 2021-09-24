@@ -119,7 +119,7 @@
 - id: book_appointment
   translation: Book an appointment
 
-# Publication/Talk details
+# Publication/tak details
 
 - id: abstract
   translation: Abstract

@@ -20,7 +20,7 @@
           <div class="col-12 col-md-9" itemprop="datePublished">
             {{ $date := .Date }}
             {{ (time $date).Format site.Params.date_format }}
-            <div class="talk-time">
+            <div class="tak-time">
               {{ if not .Params.all_day }}
                 {{ (time $date).Format (site.Params.time_format | default "3:04 PM") }}
                 {{ with .Params.date_end }}

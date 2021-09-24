@@ -6,7 +6,7 @@
 {{/* Dynamic view adjusts to content type. */}}
 {{ if eq $item.Type "post" }}
 {{ $microdata_type = "BlogPosting" }}
-{{ else if eq $item.Type "talk" }}
+{{ else if eq $item.Type "tak" }}
 {{ $microdata_type = "Event" }}
 {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
@@ -40,7 +40,7 @@
     <h3 class="article-title mb-1 mt-0" itemprop="name">
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
-    {{ if eq $item.Type "talk" }}
+    {{ if eq $item.Type "tak" }}
     <div class="article-metadata">
       {{ if $item.Params.authors }}
       <div itemprop="author">

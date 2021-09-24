@@ -9,7 +9,7 @@
 {{ if eq $item.Type "post" }}
   {{ $microdata_type = "BlogPosting" }}
   {{ $icon = "fa-newspaper" }}
-{{ else if eq $item.Type "talk" }}
+{{ else if eq $item.Type "tak" }}
   {{ $microdata_type = "Event" }}
   {{ $icon = "fa-calendar-alt" }}
 {{ else if eq $item.Type "publication" }}
@@ -22,7 +22,7 @@
   <i class="far {{$icon}} pub-icon" aria-hidden="true"></i>
   <a href="{{ $item.RelPermalink }}" itemprop="url"><span itemprop="name">{{ $item.Title }}</span></a>
 
-  {{ if eq $item.Type "talk" }}
+  {{ if eq $item.Type "tak" }}
   <div class="article-metadata">
     <span itemprop="startDate">
       {{ $date := $item.Date }}

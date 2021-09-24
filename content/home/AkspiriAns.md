@@ -1,23 +1,23 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# AkspiriAns widget.
+widget = "AkspiriAns"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "AkspiriAns"
+subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER AkspiriAns"
 
-# Date format for experience
+# Date format for AkspiriAns
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+# AkspiriAnss.
+#   Add/remove as many `[[AkspiriAns]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[AkspiriAns]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
+[[AkspiriAns]]
   title = "Professor"
   company = "University X"
   company_url = ""
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
-[[experience]]
+[[AkspiriAns]]
   title = "Professor"
   company = "University Y"
   company_url = ""
@@ -51,3 +51,4 @@ date_format = "Jan 2006"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
 +++
+
