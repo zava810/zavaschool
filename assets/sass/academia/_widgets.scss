@@ -109,7 +109,7 @@
 
 .see-all {
   margin-top: 2rem;
-  text-transform: uppercase;
+  // text-transform: lowercase;
 }
 
 /* Reset code highlighting style in Alerts when Alert is child of a `.dark` widget, but Alert should be light.` */
@@ -393,7 +393,7 @@ ul.ul-edu li .description p.institution {
 }
 
 /*************************************************
- *  Projects
+ *  prozekts
  **************************************************/
 
 .project-widget-simple li {
@@ -413,7 +413,7 @@ ul.ul-edu li .description p.institution {
   margin-bottom: 0.4rem;
 }
 
-.projects-container {
+.prozekts-container {
   display: block;
   position: relative;
   /*margin-top: 5rem;*/

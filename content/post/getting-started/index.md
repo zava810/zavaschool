@@ -20,12 +20,12 @@ image:
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# prozekts (optional).
+#   Associate this post with one or more of your prozekts.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+#   E.g. `prozekts = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `prozekts = []`.
+prozekts: []
 
 # Set captions for image gallery.
 gallery_item:
@@ -76,7 +76,7 @@ gallery_item:
 **Key features:**
 
 - **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Edit any type of content** - Blog posts, publications, talks, slides, prozekts, and more!
 - **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
 - **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
 - **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported

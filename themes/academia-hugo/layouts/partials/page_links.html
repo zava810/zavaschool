@@ -58,14 +58,14 @@
   {{ i18n "btn_dataset" }}
 </a>
 {{ end }}
-{{ if $page.Params.projects }}
-{{ range $page.Params.projects }}
+{{ if $page.Params.prozekts }}
+{{ range $page.Params.prozekts }}
   {{ with (site.GetPage (printf "project/%s" .)) }}
   <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
     {{ i18n "btn_project" }}
   </a>
   {{ else }}
-    {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
+    {{/* errorf "The `prozekts` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `prozekts = []` or fix the reference." $page.File.Path . */}}
   {{ end }}
 {{ end }}
 {{ else }}

@@ -142,7 +142,7 @@ figcaption {
 
 figcaption.numbered:before {
   font-weight: 700;
-  text-transform: uppercase;
+  // text-transform: lowercase;
   content: attr(data-pre) counter(captions) attr(data-post);
 }
 
@@ -323,7 +323,7 @@ a[data-fancybox] {
   color: #767676;
   font-weight: 900;
   line-height: 2;
-  text-transform: uppercase;
+  // text-transform: lowercase;
 }
 
 .dark .post-nav-item a {
@@ -608,7 +608,7 @@ div.alert a {
 
 .section-heading h1{
   position: relative;
-  text-transform: uppercase;
+  // text-transform: lowercase;
   letter-spacing: 4px;
   display: inline-block;
   font-size: 30px;
@@ -637,5 +637,5 @@ div.alert a {
 }
 
 .section-heading p{
-  text-transform: uppercase;
+  // text-transform: lowercase;
 }

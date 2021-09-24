@@ -1,5 +1,5 @@
 ---
-title: Skin Cancer AI
+title: Tvca kAnser kriTrim buDhimTa
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
 - human

@@ -1,6 +1,6 @@
 ---
-title: Artificial Intelligence
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: AartifisiAl intAlizens (kriTrim hoshiyari)
+summary: payThn zava zavaskript(zs) AartifisiAl intAlizens (kriTrim hoshiyari) me kam AaTi h.
 tags:
 - Demo
 - robotics
@@ -10,6 +10,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: vimAl kumar ke Dvara li gyi photo
   focal_point: Smart
 ---

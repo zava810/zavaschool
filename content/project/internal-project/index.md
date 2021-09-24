@@ -1,5 +1,5 @@
 ---
-title: coding challenge for newbies
+title: nosikhiyo(niyubiz) ke liye kodiNg cunoTi 
 summary: c c++ bit/byte on/off zava challenge
 tags:
 - coding

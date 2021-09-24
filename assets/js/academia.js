@@ -449,7 +449,7 @@
       // When accessing homepage from another page and `#top` hash is set, show top of page (no hash).
       if (window.location.hash == "#top") {
         window.location.hash = ""
-      } else if (!$('.projects-container').length) {
+      } else if (!$('.prozekts-container').length) {
         // If URL contains a hash and there are no dynamically loaded images on the page,
         // immediately scroll to target ID taking into account responsive offset.
         // Otherwise, wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
@@ -471,8 +471,8 @@
       resizeTimer = setTimeout(fixScrollspy, 200);
     });
 
-    // Filter projects.
-    $('.projects-container').each(function (index, container) {
+    // Filter prozekts.
+    $('.prozekts-container').each(function (index, container) {
       let $container = $(container);
       let $section = $container.closest('section');
       let layout;
@@ -558,7 +558,7 @@
     // Initialise Google Maps if necessary.
     initMap();
 
-    // Print latest version of GitHub projects.
+    // Print latest version of GitHub prozekts.
     let githubReleaseSelector = '.js-github-release';
     if ($(githubReleaseSelector).length > 0)
       printLatestRelease(githubReleaseSelector, $(githubReleaseSelector).data('repo'));

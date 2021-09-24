@@ -108,8 +108,8 @@
   translation: Publikacje
 - id: talks
   translation: Wystąpienia
-- id: projects
-  translation: Projects
+- id: prozekts
+  translation: prozekts
 - id: search
   translation: Search
 - id: search_placeholder

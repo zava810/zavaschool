@@ -108,8 +108,8 @@
   translation: 논문
 - id: talks
   translation: 강연
-- id: projects
-  translation: Projects
+- id: prozekts
+  translation: prozekts
 - id: search
   translation: Search
 - id: search_placeholder

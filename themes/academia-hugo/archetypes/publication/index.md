@@ -53,12 +53,12 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
+# Associated prozekts (optional).
+#   Associate this publication with one or more of your prozekts.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+#   Otherwise, set `prozekts: []`.
+prozekts: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

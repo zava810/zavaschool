@@ -108,8 +108,8 @@
   translation: Argitalpenak
 - id: talks
   translation: Hitzaldiak
-- id: projects
-  translation: Projects
+- id: prozekts
+  translation: prozekts
 - id: search
   translation: Search
 - id: search_placeholder
