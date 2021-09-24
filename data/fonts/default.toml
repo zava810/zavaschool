@@ -9,6 +9,9 @@ heading_font = "u5cdot"
 body_font = "u5cdot"
 nav_font = "u5cdot"
 mono_font = "u5cdot"
+u5cdot_font = "u5cdot"
+hnskrit_font = "hnskrit"
+
 
 # Font size
 font_size = "20"
