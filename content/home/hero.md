@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "AkAdemiAa"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "user-2.jpg"
@@ -42,7 +42,7 @@ hero_media = "user-2.jpg"
   label = "hmare kontAkts"
 
 +++
-## Hm ,viml kumar, [ItslAb](http://itslab.co.in) me Ek softveyr profesnl H. Hm yHa last 8 mHine se Intrnsip kr rHe H. Hm **pyThon zava sEO** me kodiNg krTe H Or Hmne [ItslAb](http://itslab.co.in) me 6 prozekts me kodiNg testiNg sIO kiya H. Ab Hm kisi bhi Ofis ko Online krne me skshm H. Hm nyi zob ke liye 1 mHine baD suru kr skTe H.
+## Hm ,viml kumar, [ItslAb](http://itslab.co.in) me Ek softveyr profesnl H. Hm yHa last 8 mHine se Intrnsip kr rHe H. Hm **pyThon zava sEO** me kodiNg krTe H Or Hmne [ItslAb](http://itslab.co.in) me 6 prozekts me kodiNg testiNg sIO kiya H. Ab Hm kisi bhi Ofis ko Online krne me sksm H. Hm nyi zob ke liye 1 mHine baD suru kr skTe H.
 
 sosAl saIts : laIv profail :
 1. [vk.com/zs810](vk.com/zs810)
