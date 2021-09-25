@@ -3,7 +3,7 @@
  **************************************************/
 
 html {
-  font-family: $sta-font-body, sans-serif;
+  // font-family: $sta-font-body, sans-serif;
   font-size: #{$sta-font-size-small}px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  font-family: inherit;
+  // font-family: inherit;
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
@@ -57,7 +57,7 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: $sta-font-nav, sans-serif;
+  // font-family: $sta-font-nav, sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -65,7 +65,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sta-font-heading, sans-serif;
+  // font-family: $sta-font-heading, sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -137,7 +137,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: $sta-font-heading, sans-serif;
+  // font-family: $sta-font-heading, sans-serif;
 }
 
 figcaption.numbered:before {
@@ -159,7 +159,7 @@ figcaption h4 {
 
 pre,
 code {
-  font-family: $sta-font-mono, monospace;
+  // font-family: $sta-font-mono, monospace;
   color: #c7254e;
   background-color: #f9f2f4;
 }
@@ -538,7 +538,7 @@ div.alert > div:first-child::before {
   left: -2rem;
   font-size: 1.5rem;
   color: #209cee;
-  font-family: 'Font Awesome 5 Free';
+  // font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
   width: 1.5rem;
@@ -546,7 +546,7 @@ div.alert > div:first-child::before {
 }
 
 div.alert-warning > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
+  // font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   color: #ff3860;
   content: '\f071';

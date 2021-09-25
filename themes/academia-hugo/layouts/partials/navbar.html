@@ -118,7 +118,10 @@
           </ul>
         </li>
         {{ end }}
-
+        <select onchange="document.body.style.fontFamily = this.value;">
+          <option value="u5cdot" selected>u5cdot</option>
+          <option value="hnskrit">hnskrit</option>
+        </select>
         {{ if site.Params.day_night }}
         <li class="nav-item">
           <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>

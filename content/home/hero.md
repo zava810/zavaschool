@@ -42,9 +42,9 @@ hero_media = "user-2.jpg"
   label = "hmare kontAkts"
 
 +++
-## hm ,vimAl kumar, [ItslAb](http://itslab.co.in) me ek softveyr profesnl H. Hm yHa last 8 mHine se intrnship kr rHe H. Hm **python zava sEO** me kodiNg krTe h or hmne [ItslAb](http://itslab.co.in) me 6 prozAkts me kodiNg testiNg sIO kiya h. Ab hm kisi bhi ofis ko online krne me skSm h. hm nyi zob ke liye 1 mHine bAD opAn h.
+## Hm ,viml kumar, [ItslAb](http://itslab.co.in) me Ek softveyr profesnl H. Hm yHa last 8 mHine se Intrnsip kr rHe H. Hm **pyThon zava sEO** me kodiNg krTe H Or Hmne [ItslAb](http://itslab.co.in) me 6 prozekts me kodiNg testiNg sIO kiya H. Ab Hm kisi bhi Ofis ko Online krne me skshm H. Hm nyi zob ke liye 1 mHine baD suru kr skTe H.
 
-sosAl saits : laiv profail :
+sosAl saIts : laIv profail :
 1. [vk.com/zs810](vk.com/zs810)
 1. [fb.com/heks810](fb.com/heks810)
 1. [gitHub.com/zava8](gitHub.com/zava8)

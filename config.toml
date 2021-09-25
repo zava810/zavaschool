@@ -1,3 +1,6 @@
 baseURL = "http://zava.netlify.app/"
 languageCode = "en-us"
 title = "zava mobail & veb korsiz"
+[params]
+    hindifonts = ["u5cdot", "hnskrit"]
+    pezfont = "u5cdot"
